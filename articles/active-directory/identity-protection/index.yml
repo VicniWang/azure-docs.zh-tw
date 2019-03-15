@@ -22,7 +22,7 @@ metadata:
   ms.date: 09/14/2018
   ms.author: markvi
 abstract:
-  description: 了解如何偵測可能遭盜用的身分識別，以及如何實作自動化的回應以解決問題。 Azure Active Directory Identity Protection 是 Azure AD Premium P2 版本的一向功能，可讓您：<ul><li>偵測會影響組織的身分識別的潛在弱點</li><li>設定條件式存取原則，以自動回應與組織身分識別相關的可疑動作</li><li>調查可疑事件並採取適當動作以解決它們</li></ul><br> 下列資源可協助您快速開始使用。
+  description: 了解如何偵測可能遭盜用的身分識別，以及如何實作自動化的回應以解決問題。 Azure Active Directory Identity Protection 是 Azure AD Premium P2 版本的一項功能，可讓您：<ul><li>偵測會影響組織的身分識別的潛在弱點</li><li>設定條件式存取原則，以自動回應與組織身分識別相關的可疑動作</li><li>調查可疑事件並採取適當動作以解決它們</li></ul><br> 下列資源可協助您快速開始使用。
   aside:
     image:
       alt: 
